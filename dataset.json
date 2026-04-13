@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Southfield in the Great Lakes region. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Southfield, Michigan, US",
+  "export_job_id": "b18850d2-de75-490e-bebb-41922c2fe209",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 668032,
+  "location_name": "Southfield",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-southfield-michigan-us-sample-668032",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/668032/beamstation_668032_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 10,
+  "sample_sha256": "0cfbb47f82d0e547a6405a1952e561fec20c2558adb57713be498d5a394be9ce",
+  "sample_size_bytes": 54409,
+  "total_records": 101,
+  "updated_at": "2026-03-31T13:01:52.009969+00:00"
+}
