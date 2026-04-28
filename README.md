@@ -1,6 +1,6 @@
 # All Restaurants in Southfield, Michigan, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `668032` |
 | Location | Southfield |
 | Category | Restaurants |
-| Full dataset size | 220 records |
-| Free sample size | 22 records (10.0%) |
-| Last export | 2026-04-21T14:18:15.371196+00:00 |
+| Full dataset size | 255 records |
+| Free sample size | 25 records (9.8%) |
+| Last export | 2026-04-28T15:17:33.085078+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-southfield-michigan-us-sample-668032/releases/download/sample-latest/beamstation_668032_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
