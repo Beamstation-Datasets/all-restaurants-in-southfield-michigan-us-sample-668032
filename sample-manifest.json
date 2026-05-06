@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c5991fc6-d738-4756-866f-5435ecc82e0b",
+  "export_job_id": "c6c70e5e-5682-4e78-b833-7837f5d77815",
   "id_short": 668032,
-  "published_at": "2026-04-28T19:46:48Z",
+  "published_at": "2026-05-06T19:18:22Z",
   "repo_name": "all-restaurants-in-southfield-michigan-us-sample-668032",
   "sample_asset_name": "beamstation_668032_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/668032/beamstation_668032_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "9ee9efcf21c3d1051a31597d7311b6317364d240ec9ef51c6b5279cdcbac35ee",
-  "sample_size_bytes": 96111,
-  "total_records": 255
+  "sample_records": 26,
+  "sample_sha256": "d34521febe3f05c2f2fbe6a8bde277ec8a90d26ee4a3e50c537af307566ec78d",
+  "sample_size_bytes": 112178,
+  "total_records": 264
 }
